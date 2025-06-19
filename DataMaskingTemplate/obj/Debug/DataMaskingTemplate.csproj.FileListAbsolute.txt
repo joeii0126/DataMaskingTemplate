@@ -1,0 +1,7 @@
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\bin\Debug\DataMaskingTemplate.exe.config
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\bin\Debug\DataMaskingTemplate.exe
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\bin\Debug\DataMaskingTemplate.pdb
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\obj\Debug\DataMaskingTemplate.csproj.AssemblyReference.cache
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\obj\Debug\DataMaskingTemplate.csproj.CoreCompileInputs.cache
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\obj\Debug\DataMaskingTemplate.exe
+D:\Programming\SideProjects\DataMaskingTemplate\DataMaskingTemplate\obj\Debug\DataMaskingTemplate.pdb
